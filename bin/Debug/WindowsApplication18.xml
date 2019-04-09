@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication18
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApplication18.PetShopDataSet.CategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.CustomersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.ItemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.order_detailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.OrderrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.PaymentDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.subcategoryDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.suppliersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.VendorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.CategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.CustomersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.ItemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.order_detailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.OrderrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.PaymentRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.subcategoryRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.suppliersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.VendorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.CategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.CustomersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.ItemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.order_detailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.OrderrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.PaymentRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.subcategoryRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.suppliersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet.VendorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.CategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.CustomersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.ItemsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.order_detailsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.OrderrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.PaymentTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.subcategoryTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.suppliersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.VendorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(WindowsApplication18.PetShopDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(WindowsApplication18.PetShopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(WindowsApplication18.PetShopDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.UpdateAll(WindowsApplication18.PetShopDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:WindowsApplication18.PetShopDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:WindowsApplication18.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication18.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WindowsApplication18.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
